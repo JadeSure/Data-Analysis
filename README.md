@@ -3,7 +3,7 @@
 ## Xizhuquan Co., Ltd
 Based on python language with the package of xlrd, pandas, xlrd, xlwt, xlutils, openpyxl and so forth to manipulate excel files. Besides, it also collects, merges items and items' price into database to organize item prices for different companies, and calculate the total amount in a specific period.
 
-## House_Prices
+## House_Prices (Kaggle: also with docker to control the same deployment environment)
 This dataset is from Kaggle. link: [House Prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview)
 
 ### Description
