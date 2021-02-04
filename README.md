@@ -29,3 +29,11 @@ Nearest Neighbor and Decision Tree have been used for modeling, and hill climbin
 Validation and nested loop have been used in tuning parameters. Overall, the accuracy
 of the prediction results was between 81%-99%. From the results obtained, it is
 recommended that the K Nearest Neighbor model is more suitable.
+
+The raw data named wine.data.csv which can be accessed in this folder directly or you can download it from UCI data set website: http://archive.ics.uci.edu/ml/datasets/Wine.  
+
+Another file is named "Assignment2.ipynb" which can be used to check all the detail process information including data retrieving, data exploration and data modelling. Actually, this file has archive the original history inside. If you want to check further, please open this notebook files, and then select Main menu --> Kernel -->Restart & Run All
+Just wait a moment, you will see all the results and functions.  
+
+The third file is "report.pdf" which describes specific processing flow information about data processing, data exploration, data modelling, discussion and conclusion.
+
